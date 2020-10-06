@@ -18,7 +18,8 @@
 		"symfony/config": "^4.4",
 		"symfony/console": "^4.4",
 		"symfony/dependency-injection": "^4.4",
-		"symfony/http-kernel": "^4.4"
+		"symfony/http-kernel": "^4.4",
+		"symfony/messenger": "^5.1"
 	},
 	"require-dev" : {
 		"symfony/framework-bundle" : "^4.4",

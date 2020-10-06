@@ -26,7 +26,7 @@ class OkaNotifierExtension extends Extension
 		$loader->load('services.yml');
 		
 		$definition = $container->getDefinition('oka_notifier.notifier');
-		$definition->addArgument(new Reference($config['service_name']));
+		$definition->addArgument($config['service_name']);
 		$definition->addArgument(new Reference($config['logger_id']));
 	}
 }
