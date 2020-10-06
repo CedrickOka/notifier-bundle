@@ -1,0 +1,43 @@
+{
+	"name" : "coka/notifier-bundle",
+	"type" : "symfony-bundle",
+	"license" : "MIT",
+	"autoload" : {
+		"psr-4" : {
+			"Oka\\NotifierBundle\\" : "src"
+		}
+	},
+	"autoload-dev" : {
+		"psr-4" : {
+			"Oka\\NotifierBundle\\Tests\\" : "tests/"
+		}
+	},
+	"require" : {
+		"php": ">=7.2",
+		"coka/service-discovery-bundle": "^1.1",
+		"symfony/config": "^4.4",
+		"symfony/console": "^4.4",
+		"symfony/dependency-injection": "^4.4",
+		"symfony/http-kernel": "^4.4"
+	},
+	"require-dev" : {
+		"symfony/framework-bundle" : "^4.4",
+		"symfony/phpunit-bridge" : "^4.4",
+		"symfony/yaml" : "^4.4"
+	},
+	"config" : {
+		"sort-packages" : true
+	},
+	"extra" : {
+		"branch-alias" : {
+			"dev-master" : "1.x-dev"
+		},
+		"symfony" : {
+			"allow-contrib" : "true",
+			"require" : "4.4.*"
+		}
+	},
+	"support" : {
+		"docs" : "https://github.com/CedrickOka/notifier-bundle/blob/master/src/Resources/doc/index.md"
+	}
+}
