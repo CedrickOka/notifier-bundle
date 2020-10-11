@@ -46,16 +46,6 @@ class Notifier
 		$this->doSend($notification);
 	}
 	
-	public function sendAsync(Notification $notification) :void
-	{
-		if (false === $immediately) {
-			$this->notifications[] = $notification;
-			return;
-		}
-		
-		$this->doSend($notification);
-	}
-	
 	public function flush() :void
 	{
 		if (true === empty($this->notifications)) {
