@@ -3,13 +3,13 @@ OkaNotifierBundle
 
 This bundle provides a implementon of Client Side Service Discovery pattern.
 
-[![Latest Stable Version](https://poser.pugx.org/coka/notifier/v/stable)](https://packagist.org/packages/coka/notifier)
-[![Total Downloads](https://poser.pugx.org/coka/notifier/downloads)](https://packagist.org/packages/coka/notifier)
-[![Latest Unstable Version](https://poser.pugx.org/coka/notifier/v/unstable)](https://packagist.org/packages/coka/notifier)
-[![License](https://poser.pugx.org/coka/notifier/license)](https://packagist.org/packages/coka/notifier)
-[![Monthly Downloads](https://poser.pugx.org/coka/notifier/d/monthly)](https://packagist.org/packages/coka/notifier)
-[![Daily Downloads](https://poser.pugx.org/coka/notifier/d/daily)](https://packagist.org/packages/coka/notifier)
-[![Travis CI](https://travis-ci.org/CedrickOka/notifier.svg?branch=master)](https://travis-ci.org/CedrickOka/notifier)
+[![Latest Stable Version](https://poser.pugx.org/coka/notifier-bundle/v/stable)](https://packagist.org/packages/coka/notifier-bundle)
+[![Total Downloads](https://poser.pugx.org/coka/notifier-bundle/downloads)](https://packagist.org/packages/coka/notifier-bundle)
+[![Latest Unstable Version](https://poser.pugx.org/coka/notifier-bundle/v/unstable)](https://packagist.org/packages/coka/notifier-bundle)
+[![License](https://poser.pugx.org/coka/notifier-bundle/license)](https://packagist.org/packages/coka/notifier-bundle)
+[![Monthly Downloads](https://poser.pugx.org/coka/notifier-bundle/d/monthly)](https://packagist.org/packages/coka/notifier-bundle)
+[![Daily Downloads](https://poser.pugx.org/coka/notifier-bundle/d/daily)](https://packagist.org/packages/coka/notifier-bundle)
+[![Travis CI](https://travis-ci.org/CedrickOka/notifier-bundle.svg?branch=master)](https://travis-ci.org/CedrickOka/notifier-bundle)
 
 Latest updates
 --------------
